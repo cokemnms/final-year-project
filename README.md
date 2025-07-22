@@ -77,11 +77,11 @@ npm install axios
    
 11. cd ..
 
-   cd scrapy
-   
-   npm run dev
-   
-   open localhost link
+    cd scrapy
+
+    npm run dev
+
+    open localhost link
 
 
 

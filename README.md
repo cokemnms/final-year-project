@@ -68,13 +68,19 @@ npm install pinia
 npm install axios
 
 9. cd ..
+    
    cd scrapyBackend
+
    python manage.py migrate
+
    python manage.py runserver
    
 11. cd ..
+
    cd scrapy
+   
    npm run dev
+   
    open localhost link
 
 

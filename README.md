@@ -37,10 +37,15 @@ How to Run This Project
 2. Install these libraries or run the provided requirements.txt file (pip install -r requirements.txt)
 
 pip install django
+
 pip install djangorestframework
+
 pip install mysqlclient
+
 pip install djangorestframework-simplejwt
+
 pip install pillow
+
 pip install corsheaders
 
 3. Download and install NodeJS
@@ -49,11 +54,17 @@ pip install corsheaders
 6. Terminal > New terminal > CMD
 
 7. cd scrapy
+
 Run these in the terminal:
+
 npm install
+
 npm install vue-router
+
 npm install vuetify
+
 npm install pinia
+
 npm install axios
 
 9. cd ..

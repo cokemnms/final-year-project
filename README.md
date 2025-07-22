@@ -1,4 +1,5 @@
 **SCRAPY** - Smart Industrial Scrap & Upcycling Marketplace
+
 SCRAPY is a full-stack platform built to transform the industrial and domestic scrap ecosystem. It enables individuals and industries to reuse, repurpose, and resell scrap materials via a transparent, community-driven digital marketplace.
 
 **Tech Stack**

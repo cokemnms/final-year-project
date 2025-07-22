@@ -20,7 +20,6 @@ Backend:
 6. JWT Authentication (djangorestframework-simplejwt)
 7. CSRF protection (built-in with Django)
 8. AI Chatbot: Chatbase.co (Integrated via frontend)
-9. AI Scrap Detection: Future work. A custom image classification model (TensorFlow/Keras, PyTorch, etc.)
 
 **Key Features**
 - **User Authentication**: Registration, login, and personalized dashboards
